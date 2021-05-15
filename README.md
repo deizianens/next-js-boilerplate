@@ -1,6 +1,14 @@
 # Boilerplate NextJS
 
-Boilerplate for a NextJS project with Typescript, Jest, React Testing Library, Storybook and Styled Components.
+Boilerplate for a NextJS project with:
+- Typescript
+- Jest
+- React Testing Library
+- Storybook
+- Styled Components
+- Eslint
+- Prettier
+- Husky
 
 To use this boilerplate, do:
 
